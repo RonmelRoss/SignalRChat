@@ -1,0 +1,4 @@
+C:\Users\Ronmel Ross\source\repos\chat-app\SignalRChat\obj\Debug\netcoreapp2.2\SignalRChat.csprojAssemblyReference.cache
+C:\Users\Ronmel Ross\source\repos\chat-app\SignalRChat\obj\Debug\netcoreapp2.2\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\Ronmel Ross\source\repos\chat-app\SignalRChat\obj\Debug\netcoreapp2.2\SignalRChat.AssemblyInfoInputs.cache
+C:\Users\Ronmel Ross\source\repos\chat-app\SignalRChat\obj\Debug\netcoreapp2.2\SignalRChat.AssemblyInfo.cs
